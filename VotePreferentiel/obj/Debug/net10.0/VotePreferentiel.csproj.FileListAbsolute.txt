@@ -1,0 +1,12 @@
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\bin\Debug\net10.0\VotePreferentiel.deps.json
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\bin\Debug\net10.0\VotePreferentiel.dll
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\bin\Debug\net10.0\VotePreferentiel.pdb
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.AssemblyInfoInputs.cache
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.AssemblyInfo.cs
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.csproj.CoreCompileInputs.cache
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.sourcelink.json
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.dll
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\refint\VotePreferentiel.dll
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\VotePreferentiel.pdb
+C:\Users\essao\RiderProjects\VotePreferentiel\VotePreferentiel\obj\Debug\net10.0\ref\VotePreferentiel.dll
